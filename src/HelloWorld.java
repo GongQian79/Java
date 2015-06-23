@@ -12,4 +12,8 @@ public class HelloWorld {
 		}
 	}
 	
+	private static void test() {
+		
+	}
+	
 }
